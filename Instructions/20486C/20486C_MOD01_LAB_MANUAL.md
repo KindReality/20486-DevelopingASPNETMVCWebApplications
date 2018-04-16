@@ -233,7 +233,7 @@ The main tasks for this exercise are as follows:
 
 #### Task 1: Create an MVC 5 application.
 
-1. Start Visual Studio 2017 and create a new **MVC** project by using the **ASP.NET Web Application** template. Choose the **Internet Application** template.
+1. Start Visual Studio 2017 and create a new **MVC** project by using the **ASP.NET Web Application** template. Choose the **MVC** template.
 2. Run the new MVC application in Microsoft Edge, and explore the **Contact** page.
 3. Stop debugging by closing Microsoft Edge.
 
