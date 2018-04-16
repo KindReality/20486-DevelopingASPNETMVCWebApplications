@@ -176,7 +176,7 @@ The main tasks for this exercise are as follows:
 
 #### Task 3: Add simple functionality.
 
-1. Add a new Web Forms page to the application at the route level by using the following information:
+1. Add a new Web Forms page to the application at the root level by using the following information:
 
     - Name of the Web Form: **TestPage.aspx**
 
